@@ -108,41 +108,41 @@ plt.show()
 ### OUTPUT:
 
 Original data:
+![image](https://github.com/user-attachments/assets/61ad48b8-ab04-4f02-8fc0-bdbe49193241)
 
-![alt text](image.png)
 
 Partial Autocorrelation:-
+![image](https://github.com/user-attachments/assets/31ecab0e-2320-4a7c-bf46-691198bf9245)
 
-![alt text](image-1.png)
 
 Autocorrelation:-
+![image](https://github.com/user-attachments/assets/f958516f-beb4-45f9-8cbd-fa573b3b497a)
 
-![alt text](image-2.png)
 
 SIMULATED ARMA(1,1) PROCESS:
+![image](https://github.com/user-attachments/assets/001af869-c909-4589-95da-4355117166f4)
 
-![alt text](image-3.png)
 
 Partial Autocorrelation:-
+![image](https://github.com/user-attachments/assets/d75058e5-806e-4353-ab7d-486d98f4b2a0)
 
-![alt text](image-5.png)
 
 Autocorrelation:-
+![image](https://github.com/user-attachments/assets/ce4a4401-f527-46c5-ab7c-47e749173040)
 
-![alt text](image-4.png)
 
 
 SIMULATED ARMA(2,2) PROCESS:
+![image](https://github.com/user-attachments/assets/9afc0949-d7c7-407d-a510-62564ff5ad0d)
 
-![alt text](image-6.png)
 
 Partial Autocorrelation
+![image](https://github.com/user-attachments/assets/032e45e3-9b00-4598-83b9-c7674558ba53)
 
-![alt text](image-8.png)
 
 Autocorrelation
+![image](https://github.com/user-attachments/assets/58719d62-21d5-44bb-b768-a959cbcb5f9a)
 
-![alt text](image-7.png)
 
 ### RESULT:
 
